@@ -42,7 +42,7 @@ Remove old welcome messages using `/cleanwelcome on`.
 
 ## Blacklist words and phrases
 
-List of vulgarities added using `/blacklist "<vulgarity>"`.
+List of vulgarities added using `/addblacklist "<vulgarity>"`.
 
 List of swear words taken from [bannedwordlist.com](http://www.bannedwordlist.com/).
 
